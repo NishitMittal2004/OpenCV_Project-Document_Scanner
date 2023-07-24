@@ -1,1 +1,1 @@
-# OpenCV_Project-Document_Scanner
+# OpenCV Project - Document Scanner
